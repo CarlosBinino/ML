@@ -1,0 +1,26 @@
+__________________________
+Notes 
+__________________________
+
+Supervised learning: Uses labeled data
+	- If the data has a discrete output, like will a stock go up or down, it is a classification problem
+	- If the data has a continues output, like what will the stock price be tomorrow, it is a regression problem
+
+_____________
+Unsupervised learning: Uses unlabeled data - Uncovering hidden patterns from unlabeled data
+	- Grouping customers into distinct categories (clustering)
+
+Can be used to group products that are freqently purchaced together. Can be used for cross marketing puposes
+
+https://www.kaggle.com/datatheque/association-rules-mining-market-basket-analysis
+http://pbpython.com/market-basket-analysis.html
+_____________	
+Reinforcement learning
+__________________________
+Supervised learning in Python - scikit-learn
+__________________________
+
+
+
+
+
